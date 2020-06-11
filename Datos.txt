@@ -1,0 +1,8 @@
+{"nombre":"Roberto Adan Sanchez Celis","edad":"20","sexo":"Masculino"}
+{"nombre":"Fernando Gomen Sanchez","edad":"25","sexo":"Masculino"}
+{"nombre":"Gustavo Hernandez Mesa","edad":"20","sexo":"Masculino"}
+{"nombre":"Fernanda Salas Gutierrez","edad":"26","sexo":"Femenino"}
+{"nombre":"Samuel Hernandez Ferrer","edad":"34","sexo":"Masculino"}
+{"nombre":"Guadalupe Martinez Ramirez","edad":"15","sexo":"Femenino"}
+{"nombre":"David Lopez Elias","edad":"18","sexo":"Masculino"}
+{"nombre":"David Lopez Elias","edad":"18","sexo":"Masculino"}
