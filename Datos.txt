@@ -6,3 +6,4 @@
 {"nombre":"Guadalupe Martinez Ramirez","edad":"15","sexo":"Femenino"}
 {"nombre":"David Lopez Elias","edad":"18","sexo":"Masculino"}
 {"nombre":"David Lopez Elias","edad":"18","sexo":"Masculino"}
+{"nombre":"Prueba 1","edad":"34","sexo":"Masculino"}
